@@ -1,0 +1,15 @@
+C:\Users\jacob\source\repos\AnimalInheritance\bin\Debug\net6.0\AnimalInheritance.exe
+C:\Users\jacob\source\repos\AnimalInheritance\bin\Debug\net6.0\AnimalInheritance.deps.json
+C:\Users\jacob\source\repos\AnimalInheritance\bin\Debug\net6.0\AnimalInheritance.runtimeconfig.json
+C:\Users\jacob\source\repos\AnimalInheritance\bin\Debug\net6.0\AnimalInheritance.dll
+C:\Users\jacob\source\repos\AnimalInheritance\bin\Debug\net6.0\AnimalInheritance.pdb
+C:\Users\jacob\source\repos\AnimalInheritance\obj\Debug\net6.0\AnimalInheritance.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\AnimalInheritance\obj\Debug\net6.0\AnimalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\AnimalInheritance\obj\Debug\net6.0\AnimalInheritance.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\AnimalInheritance\obj\Debug\net6.0\AnimalInheritance.AssemblyInfo.cs
+C:\Users\jacob\source\repos\AnimalInheritance\obj\Debug\net6.0\AnimalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\AnimalInheritance\obj\Debug\net6.0\AnimalInheritance.dll
+C:\Users\jacob\source\repos\AnimalInheritance\obj\Debug\net6.0\refint\AnimalInheritance.dll
+C:\Users\jacob\source\repos\AnimalInheritance\obj\Debug\net6.0\AnimalInheritance.pdb
+C:\Users\jacob\source\repos\AnimalInheritance\obj\Debug\net6.0\AnimalInheritance.genruntimeconfig.cache
+C:\Users\jacob\source\repos\AnimalInheritance\obj\Debug\net6.0\ref\AnimalInheritance.dll
